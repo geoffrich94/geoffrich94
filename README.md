@@ -22,6 +22,3 @@ I’m passionate about building engaging, innovative experiences inspired by vid
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/geoffrey-richardson-035760152  
 - Email: geoffrey.richardson94@gmail.com  
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrich94&layout=compact)
