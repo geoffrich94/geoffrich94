@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 My name is Geoffrey Richardson
 
-<!--
-**geoffrich94/geoffrich94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am a front-end developer based in London with 6+ years of experience building scalable, interactive web applications. I hold a 2:1 BSc in Digital Media Technology from Birmingham City University.
+I take an engineering-first approach to front-end development, prioritising performance, code quality, and long-term maintainability.
+I’m passionate about building engaging, innovative experiences inspired by video games, anime, art, and film.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+-  **Languages:** JavaScript, TypeScript
+-  **Markup & Styling:** HTML, SCSS
+-  **Frameworks:** React, Angular, A-Frame
+-  **Architecture & State:** Redux, NgRx, RxJS
+-  **Libraries:** Three.js
+-  **Testing:** Jest
+-  **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I’m Currently Working On
+**BattleDBZ** – a turn-based battle RPG inspired by the Dragon Ball Z universe. Built with **React** and **Redux** for state management. I’m focused on making the game engaging, scalable, and fun, while exploring advanced state management and real-time features.
+- The **single-player mode** is almost complete.  
+- Planning to add **online multiplayer** functionality soon using **WebSockets**.  
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/geoffrey-richardson-035760152  
+- Email: geoffrey.richardson94@gmail.com  
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffrich94&layout=compact)
