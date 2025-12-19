@@ -15,12 +15,11 @@ I’m passionate about building engaging, innovative experiences inspired by vid
 -  **Tools:** Git
 
 ## 🚧 What I’m Currently Working On
-**BattleDBZ** – a turn-based battle RPG inspired by the Dragon Ball Z universe, built with **React** and **Redux**.
+**BattleDBZ** – a turn-based battle RPG inspired by the Dragon Ball Z universe, built with **React** and **Redux**. This project focuses heavily on predictable state management, scalable game logic, and performance-conscious UI updates. 
 - Built **tactical, turn-based combat mechanics**, including stat-boosting consumables that affect both short-term outcomes and long-term strategy.
 - Implemented **Redux-driven character selection and battle state**, with each character defined by unique stats and fully customisable move sets.
 - Designed a custom **damage calculation system**, accounting for attack accuracy, critical hit probability, stat scaling, and randomness.
 - Planning to introduce **real-time online multiplayer** using **WebSockets**.
-This project focuses heavily on predictable state management, scalable game logic, and performance-conscious UI updates. 
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/geoffrey-richardson-035760152  
