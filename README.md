@@ -11,7 +11,7 @@ I take an engineering-first approach to front-end development, prioritising perf
 -  **Architecture & State:** Redux, NgRx, RxJS
 -  **Libraries:** Three.js
 -  **Testing:** Jest
--  **Tools:** Git
+-  **Tools:** Git, Storybook
 
 ## 🚧 What I’m Currently Working On
 **BattleDBZ** – a turn-based battle RPG inspired by the Dragon Ball Z universe, built with **React** and **Redux**. This project focuses heavily on predictable state management, scalable game logic, and performance-conscious UI updates. 
