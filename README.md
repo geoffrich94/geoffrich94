@@ -3,7 +3,6 @@
 ## 👩‍💻 About Me
 My name is Geoffrey Richardson and I am a front-end developer based in London with 6+ years of experience building scalable, interactive web applications and also a 2:1 BSc in Digital Media Technology from Birmingham City University.
 I take an engineering-first approach to front-end development, prioritising performance, code quality, and long-term maintainability.
-I’m passionate about building engaging, innovative experiences inspired by video games, anime, art, and film.
 
 ## 🛠️ Tech Stack
 -  **Languages:** JavaScript, TypeScript
